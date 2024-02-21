@@ -1,0 +1,11 @@
+#one{
+    border: dotted 1px red;
+
+}
+#two{
+    border: solid 1px;
+    border-color: green;
+    padding: 20px;
+    margin: 5%;
+}
+
